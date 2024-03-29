@@ -16,10 +16,11 @@ function About() {
           As a frontend developer with over 2 years of experience, I specialize
           in creating user-friendly interfaces and implementing designs to
           enhance the overall user experience. I have a strong understanding of
-          HTML, CSS, and JavaScript, along with experience with popular
-          frameworks like React.js. I am passionate about staying updated with
-          the latest trends and technologies in frontend development to
-          continuously improve my skills and deliver high-quality solutions.
+          HTML, CSS, and JavaScript, bootstrap, thymeleaf html, along with
+          experience with popular frameworks like React.js. I am passionate
+          about staying updated with the latest trends and technologies in
+          frontend development to continuously improve my skills and deliver
+          high-quality solutions.
         </p>
         <br></br>
 
